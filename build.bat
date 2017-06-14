@@ -6,5 +6,5 @@ del SydneyHUD-Assets.zip
 echo delete completed.
 
 echo starting compress...
-7za a SydneyHUD-Assets.zip ../SydneyHUD-Assets/ -xr!.git/ -xr!readme.md -xr!.gitignore -xr!7za.exe -xr!build.bat -xr!sydney/
+7za a SydneyHUD-Assets.zip ../SydneyHUD-Assets/ -xr!.git/ -xr!readme.md -xr!.gitignore -xr!7za.exe -xr!build.bat -xr!sydney/ -xr!SydneyHUD-Assets_edge.zip
 echo compress finished.
